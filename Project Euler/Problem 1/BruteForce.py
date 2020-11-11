@@ -1,4 +1,5 @@
 
+#Determines if the number n has 3 or 5 as a factor
 def ThreeOrFive(n):
     if n%3 == 0 or n%5 == 0:
         return True
