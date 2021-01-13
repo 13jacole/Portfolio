@@ -1,7 +1,7 @@
 #Initial Idea -- Prime Factors
 
 #All numbers can be expressed as a product of their prime factors
-#If we apply prime factorization to each number from 1-20, and multiply the factors, we should find the smallest numjber that is a evenly divisible by all numbers 1-20.
+#If we apply prime factorization to each number from 1-20, and multiply the factors, we should find the smallest number that is a evenly divisible by all numbers 1-20.
 
 import math
 
